@@ -1,4 +1,4 @@
-# The code is this repository was used for my thesis 'Tracing the Social Construction of Abortion Attitudes in Online Discourse'
+### The code is this repository was used for my thesis 'Tracing the Social Construction of Abortion Attitudes in Online Discourse'
 
 The code was written in Python 3.11.5 and in AWS PySpark.
 
