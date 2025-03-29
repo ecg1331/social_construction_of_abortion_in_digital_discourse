@@ -1,0 +1,15 @@
+# requirements.txt
+
+pandas
+numpy
+regex
+nltk
+scikit-learn
+swifter
+torch
+transformers
+datasets
+matplotlib
+seaborn
+evaluate
+bertopic
