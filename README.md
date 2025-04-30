@@ -36,4 +36,4 @@ Notebooks related to topic modeling of pro-life and pro-choice comments:
 - `prolife_lda.ipynb` – LDA topic modeling on pro-life comments.
 - `prolife_BT.ipynb` – BERTopic modeling on pro-life comments.
 - `prochoice_BT.ipynb` – BERTopic modeling on pro-choice comments.
-- `bt_explore.ipynb` – Further exploration of BERTopic models.
+- `bt_models_explore.ipynb` – Further exploration of BERTopic models.
